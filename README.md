@@ -4,6 +4,7 @@ My ReminderPro es una aplicación sencilla de escritorio construida con Python y
 ________________________________________
 
 🛠️ Tecnologías Utilizadas
+
 •	Python 3.x
 •	Tkinter (Interfaz gráfica)
 •	JSON (Para guardar los datos)
@@ -12,6 +13,7 @@ ________________________________________
 ________________________________________
 
 📅 Flujo de Uso
+
 1.	El usuario abre la app y accede con su usuario.
 2.	Crea recordatorios con fecha, descripción, y tiempo de alerta.
 3.	cuenta con notificacion de alerta para atender el recordatorio.
@@ -63,6 +65,7 @@ ________________________________________
 ________________________________________
 
 🛡️ Seguridad 
+
   •	Las contraseñas pueden ser ocultadas en los campos.
   •	Validación antes de restaurar backups o eliminar datos.
   •	Permite múltiples usuarios (puede ampliarse con roles).
