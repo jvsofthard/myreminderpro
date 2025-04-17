@@ -1,4 +1,5 @@
 📌 Descripción General
+
 My ReminderPro es una aplicación sencilla de escritorio construida con Python y Tkinter que permite a los usuarios gestionar sus recordatorios personales de manera sencilla, profesional y con estilo. Cuenta con funcionalidades de login, backup, restauración, estadística, exportación, y mucho más. Es ideal para mantener la productividad y no dejar pasar ningún pendiente.
 ________________________________________
 
