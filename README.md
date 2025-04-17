@@ -62,9 +62,9 @@ ________________________________________
 ________________________________________
 
 🛡️ Seguridad 
-•	Las contraseñas pueden ser ocultadas en los campos.
-•	Validación antes de restaurar backups o eliminar datos.
-•	Permite múltiples usuarios (puede ampliarse con roles).
+  •	Las contraseñas pueden ser ocultadas en los campos.
+  •	Validación antes de restaurar backups o eliminar datos.
+  •	Permite múltiples usuarios (puede ampliarse con roles).
 ________________________________________
 
 Usuarios de pruebas.
